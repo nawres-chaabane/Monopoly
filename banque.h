@@ -12,7 +12,7 @@ class banque
         int montant, nb_hotels, nb_maisons ;
 
     public:
-        banque(){ 
+        banque(){
 		montant= 12000;
         nb_maisons= 32;
         nb_hotels=12;
@@ -27,7 +27,7 @@ class banque
         int get_nb_hotels() {
             return nb_hotels;
         }
-        void set_nb_maisons(int a){  //2 setter pour modifier le nombre de maison ou de hotel disponible en cas d'une vente 
+        void set_nb_maisons(int a){  //2 setters pour modifier le nombre de maison ou de hotel disponible en cas d'une vente
             nb_maisons-=a;
 
 
@@ -37,7 +37,7 @@ class banque
 
 
         }
-        int donner_arg(int arg,joueur j){ 
+        int donner_arg(int arg,joueur j){
             montant= montant - arg;
             j.solde+=arg;
             return (montant);

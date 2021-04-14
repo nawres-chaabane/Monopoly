@@ -1,5 +1,5 @@
-#ifndef PLATEAU_H	
-#define PLATEAU_H	
+#ifndef PLATEAU_H
+#define PLATEAU_H
 #include <iostream>
 #include "CASE.H"
 
@@ -78,20 +78,21 @@ class 	plateau {
 			tab[38].set_prix_case(100) ;
 			tab[39].set_nom_case("RUE DE LA PAIX") ;
 			tab[39].set_prix_case(400) ;
-			
-			
+
+
 			// on a définit les 40 cases du plateau selon la version choisie !
-			
-			
-			
-			
-			
-			
-			
+
+
+
+
+
+
+
 		}
-	
-	~plateau() ; // destricteur
-		
+
+	~plateau(){
+	delete[] tab;} ; // destricteur
+
 };
 #endif //PLATEAU_H
 
