@@ -1,0 +1,416 @@
+# depslib dependency file v1.0
+1620560958 source:c:\users\hp\documents\monopoly\case.cpp
+	"Case.H"
+	<iostream>
+
+1621122211 c:\users\hp\documents\monopoly\case.h
+	<iostream>
+
+1620598395 source:c:\users\hp\documents\monopoly\de.cpp
+	"de.h"
+	<iostream>
+	<ctime>
+
+1621011619 c:\users\hp\documents\monopoly\de.h
+	<iostream>
+
+1620940099 source:c:\users\hp\documents\monopoly\banque.cpp
+	"banque.h"
+	<iostream>
+
+1621120016 c:\users\hp\documents\monopoly\banque.h
+	<iostream>
+	"joueur.h"
+	"carte_chance.h"
+
+1621121994 c:\users\hp\documents\monopoly\joueur.h
+	"carte_chance.h"
+	"carte_communaute.h"
+	<iostream>
+	"carte_terrain.h"
+	"banque.h"
+	"Jeu.h"
+	<string>
+	<list>
+	<vector>
+
+1621013358 c:\users\hp\documents\monopoly\carte_chance.h
+	"joueur.h"
+	"banque.h"
+	"carte_terrain.h"
+
+1621113814 c:\users\hp\documents\monopoly\carte_terrain.h
+	"case.h"
+	"joueur.h"
+	<string>
+	<iostream>
+	<list>
+
+1621114215 c:\users\hp\documents\monopoly\carte_communaute.h
+	"joueur.h"
+	"banque.h"
+	"jeu.h"
+	"carte_chance.h"
+
+1620940480 source:c:\users\hp\documents\monopoly\carte_chance.cpp
+	<iostream>
+	"carte_chance.h"
+
+1621116005 c:\users\hp\documents\monopoly\jeu.h
+	<iostream>
+	<vector>
+	"plateau.h"
+	"de.h"
+	"carte_communaute.h"
+	"carte_chance.h"
+	"banque.h"
+
+1621121024 c:\users\hp\documents\monopoly\plateau.h
+	<iostream>
+	"case.h"
+	"carte_terrain.h"
+
+1621119957 source:c:\users\hp\documents\monopoly\main.cpp
+	"jeu.h"
+	"joueur.h"
+	"de.h"
+	<vector>
+
+1621197720 source:c:\users\lenovo\desktop\nouveau dossier (5)\case.cpp
+	"Case.H"
+	<iostream>
+
+1621197720 c:\users\lenovo\desktop\nouveau dossier (5)\case.h
+	<iostream>
+
+1621197720 source:c:\users\lenovo\desktop\nouveau dossier (5)\de.cpp
+	"de.h"
+	<iostream>
+	<ctime>
+
+1621197720 c:\users\lenovo\desktop\nouveau dossier (5)\de.h
+	<iostream>
+
+1621197720 source:c:\users\lenovo\desktop\nouveau dossier\de.cpp
+	"de.h"
+	<iostream>
+	<ctime>
+
+1621197720 c:\users\lenovo\desktop\nouveau dossier\de.h
+	<iostream>
+
+1621381120 source:c:\users\lenovo\desktop\ici\de.cpp
+	"de.h"
+	<iostream>
+	<ctime>
+
+1621197720 c:\users\lenovo\desktop\ici\de.h
+	<iostream>
+
+1621291911 source:c:\users\lenovo\desktop\ici\case.cpp
+	"Case.H"
+	<iostream>
+
+1621214129 c:\users\lenovo\desktop\ici\case.h
+	<iostream>
+
+1621368646 source:c:\users\lenovo\desktop\ici\banque.cpp
+	"banque.h"
+	"joueur.h"
+	<iostream>
+
+1621292831 c:\users\lenovo\desktop\ici\banque.h
+	<iostream>
+	"carte_chance.h"
+
+1621293209 c:\users\lenovo\desktop\ici\carte_chance.h
+	"carte_terrain.h"
+
+1621376069 c:\users\lenovo\desktop\ici\carte_terrain.h
+	<string>
+	<iostream>
+	"case.h"
+
+1621395665 c:\users\lenovo\desktop\ici\joueur.h
+	<string>
+	<list>
+	<vector>
+	<iostream>
+	"carte_chance.h"
+	"carte_communaute.h"
+	"carte_terrain.h"
+	"de.h"
+	"banque.h"
+	"jeu.h"
+	"plateau.h"
+
+1621293569 c:\users\lenovo\desktop\ici\carte_communaute.h
+	"banque.h"
+
+1621395206 c:\users\lenovo\desktop\ici\jeu.h
+	<iostream>
+	"carte_chance.h"
+	"carte_communaute.h"
+	<vector>
+	"banque.h"
+	"carte_terrain.h"
+	"case.h"
+	"joueur.h"
+	"plateau.h"
+	"de.h"
+
+1621389159 c:\users\lenovo\desktop\ici\plateau.h
+	<iostream>
+	"case.h"
+	"carte_terrain.h"
+
+1621390591 source:c:\users\lenovo\desktop\ici\carte_chance.cpp
+	<iostream>
+	"carte_chance.h"
+	"banque.h"
+	"joueur.h"
+
+1621373728 source:c:\users\lenovo\desktop\ici\main.cpp
+	"jeu.h"
+	"joueur.h"
+	"de.h"
+	<vector>
+
+1621389239 source:c:\users\lenovo\desktop\ici\plateau.cpp
+	"plateau.h"
+	<iostream>
+	<string>
+
+1621368028 source:c:\users\lenovo\desktop\ici\carte_communaute.cpp
+	<iostream>
+	"banque.h"
+	"joueur.h"
+	"jeu.h"
+
+1621390681 source:c:\users\lenovo\desktop\ici\carte_terrain.cpp
+	<iostream>
+	<list>
+	"carte_terrain.h"
+	"joueur.h"
+
+1621395682 source:c:\users\lenovo\desktop\ici\jeu.cpp
+	"jeu.h"
+	<iostream>
+	<memory>
+
+1621395693 source:c:\users\lenovo\desktop\ici\joueur.cpp
+	"joueur.h"
+	<string>
+	<vector>
+	<iostream>
+
+1621368646 source:c:\users\lenovo\desktop\ici2\banque.cpp
+	"banque.h"
+	"joueur.h"
+	<iostream>
+
+1621292831 c:\users\lenovo\desktop\ici2\banque.h
+	<iostream>
+	"carte_chance.h"
+
+1621293209 c:\users\lenovo\desktop\ici2\carte_chance.h
+	"carte_terrain.h"
+
+1621443962 c:\users\lenovo\desktop\ici2\carte_terrain.h
+	<string>
+	<iostream>
+	"case.h"
+
+1621214129 c:\users\lenovo\desktop\ici2\case.h
+	<iostream>
+
+1621448589 c:\users\lenovo\desktop\ici2\joueur.h
+	<string>
+	<list>
+	<vector>
+	<iostream>
+	"carte_chance.h"
+	"carte_communaute.h"
+	"carte_terrain.h"
+	"de.h"
+	"banque.h"
+	"jeu.h"
+	"plateau.h"
+
+1621293569 c:\users\lenovo\desktop\ici2\carte_communaute.h
+	"banque.h"
+
+1621197720 c:\users\lenovo\desktop\ici2\de.h
+	<iostream>
+
+1621395206 c:\users\lenovo\desktop\ici2\jeu.h
+	<iostream>
+	"carte_chance.h"
+	"carte_communaute.h"
+	<vector>
+	"banque.h"
+	"carte_terrain.h"
+	"case.h"
+	"joueur.h"
+	"plateau.h"
+	"de.h"
+
+1621441135 c:\users\lenovo\desktop\ici2\plateau.h
+	<iostream>
+	"case.h"
+	"carte_terrain.h"
+
+1621368028 source:c:\users\lenovo\desktop\ici2\carte_communaute.cpp
+	<iostream>
+	"banque.h"
+	"joueur.h"
+	"jeu.h"
+
+1621291911 source:c:\users\lenovo\desktop\ici2\case.cpp
+	"Case.H"
+	<iostream>
+
+1621381120 source:c:\users\lenovo\desktop\ici2\de.cpp
+	"de.h"
+	<iostream>
+	<ctime>
+
+1621449109 source:c:\users\lenovo\desktop\ici2\main.cpp
+	"jeu.h"
+	"joueur.h"
+	"de.h"
+	<vector>
+
+1621443009 source:c:\users\lenovo\desktop\ici2\carte_chance.cpp
+	<iostream>
+	"carte_chance.h"
+	"banque.h"
+	"joueur.h"
+
+1621441135 source:c:\users\lenovo\desktop\ici2\plateau.cpp
+	"plateau.h"
+	<iostream>
+	<string>
+
+1621448379 source:c:\users\lenovo\desktop\ici2\carte_terrain.cpp
+	<iostream>
+	<list>
+	"carte_terrain.h"
+	"joueur.h"
+
+1621444293 source:c:\users\lenovo\desktop\ici2\joueur.cpp
+	"joueur.h"
+	<string>
+	<vector>
+	<iostream>
+
+1621449034 source:c:\users\lenovo\desktop\ici2\jeu.cpp
+	"jeu.h"
+	<iostream>
+	<memory>
+
+1621368646 source:c:\users\lenovo\desktop\ici3\banque.cpp
+	"banque.h"
+	"joueur.h"
+	<iostream>
+
+1621292831 c:\users\lenovo\desktop\ici3\banque.h
+	<iostream>
+	"carte_chance.h"
+
+1621293209 c:\users\lenovo\desktop\ici3\carte_chance.h
+	"carte_terrain.h"
+
+1621443962 c:\users\lenovo\desktop\ici3\carte_terrain.h
+	<string>
+	<iostream>
+	"case.h"
+
+1621214129 c:\users\lenovo\desktop\ici3\case.h
+	<iostream>
+
+1621465074 c:\users\lenovo\desktop\ici3\joueur.h
+	<string>
+	<list>
+	<vector>
+	<iostream>
+	"carte_chance.h"
+	"carte_communaute.h"
+	"carte_terrain.h"
+	"de.h"
+	"banque.h"
+	"jeu.h"
+	"plateau.h"
+
+1621293569 c:\users\lenovo\desktop\ici3\carte_communaute.h
+	"banque.h"
+
+1621457737 c:\users\lenovo\desktop\ici3\de.h
+	<iostream>
+
+1621395206 c:\users\lenovo\desktop\ici3\jeu.h
+	<iostream>
+	"carte_chance.h"
+	"carte_communaute.h"
+	<vector>
+	"banque.h"
+	"carte_terrain.h"
+	"case.h"
+	"joueur.h"
+	"plateau.h"
+	"de.h"
+
+1621441135 c:\users\lenovo\desktop\ici3\plateau.h
+	<iostream>
+	"case.h"
+	"carte_terrain.h"
+
+1621456396 source:c:\users\lenovo\desktop\ici3\carte_chance.cpp
+	<iostream>
+	"carte_chance.h"
+	"banque.h"
+	"joueur.h"
+
+1621368028 source:c:\users\lenovo\desktop\ici3\carte_communaute.cpp
+	<iostream>
+	"banque.h"
+	"joueur.h"
+	"jeu.h"
+
+1621456614 source:c:\users\lenovo\desktop\ici3\carte_terrain.cpp
+	<iostream>
+	<list>
+	"carte_terrain.h"
+	"joueur.h"
+
+1621291911 source:c:\users\lenovo\desktop\ici3\case.cpp
+	"Case.H"
+	<iostream>
+
+1621459085 source:c:\users\lenovo\desktop\ici3\de.cpp
+	"de.h"
+	<iostream>
+	<ctime>
+
+1621449109 source:c:\users\lenovo\desktop\ici3\main.cpp
+	"jeu.h"
+	"joueur.h"
+	"de.h"
+	<vector>
+
+1621441135 source:c:\users\lenovo\desktop\ici3\plateau.cpp
+	"plateau.h"
+	<iostream>
+	<string>
+
+1621465078 source:c:\users\lenovo\desktop\ici3\jeu.cpp
+	"jeu.h"
+	<iostream>
+	<memory>
+
+1621465060 source:c:\users\lenovo\desktop\ici3\joueur.cpp
+	"joueur.h"
+	<string>
+	<vector>
+	<iostream>
+
